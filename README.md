@@ -1,5 +1,5 @@
 # QuanTAV
-
+Please see the workable demo in vessel_analysis_demo.m for a detailed walkthrough on using and interpreting the package. 
 
 ## Usage 
 © 2021 Center for Computational Imaging and Personalized Diagnostics, Case Western Reserve University. This code is made available under the GNU Affero General Public License v3.0 (AGPL-3.0). and is available for non-commercial academic purposes only. 
